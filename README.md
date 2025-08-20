@@ -26,5 +26,9 @@ I used Qiskit’s `AerSimulator` as backend constraints, this demo is limited to
 - With 28 qubits:  
   - On average, **12–16 bases match** between Alice and Bob.  
   - That’s roughly **47–53% agreement**, which is exactly what theory predicts (basis matches occur with probability ½).  
-  - This confirms the implementation behaves as expected.  
+  - This confirms the implementation behaves as expected.
+ 
+---
+Feel free to clone, modify, and extend this project to suit your needs! (Specially, I wanted to try making a Batch wise measurement to cover more number of qubits but I couldn't figure out a nice way to implement this, hence maybe anyone interested can try that as well) 
+
 
