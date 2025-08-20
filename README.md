@@ -29,6 +29,7 @@ I used Qiskit’s `AerSimulator` as backend constraints, this demo is limited to
   - This confirms the implementation behaves as expected.
  
 ---
-Feel free to clone, modify, and extend this project to suit your needs! (Specially, I wanted to try making a Batch wise measurement to cover more number of qubits but I couldn't figure out a nice way to implement this, hence maybe anyone interested can try that as well) 
+Feel free to clone, modify, and extend this project to suit your needs! 
+*(Specially, I wanted to try making a Batch wise measurement to cover more number of qubits but I couldn't figure out a nice way to implement this, hence maybe anyone interested can try that as well)* 
 
 
